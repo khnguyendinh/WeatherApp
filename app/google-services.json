@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "632949219986",
+    "firebase_url": "https://weather-b4658.firebaseio.com",
+    "project_id": "weather-b4658",
+    "storage_bucket": "weather-b4658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632949219986:android:58ed6b1747c903a7",
+        "android_client_info": {
+          "package_name": "app.lampstudio.com.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632949219986-kjiucqsm004u3l4ieqr4525ndci39oa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaETog4R_L63hymG7e-JpuOWWUbj_qia4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

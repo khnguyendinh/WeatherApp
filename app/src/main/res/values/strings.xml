@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="action_location">Location</string>
+    <string name="action_settings">Setting</string>
+    <string name="city">City</string>
+    <string name="title_activity_open_weather">OpenWeather</string>
+    <string name="moveto_open">Open weather</string>
+    <string name="title_activity_open_weather2">OpenWeather2</string>
 </resources>
